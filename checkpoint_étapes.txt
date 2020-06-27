@@ -1,0 +1,30 @@
+//1. Install Node JS 
+
+https://nodejs.org/en/download/
+
+//voir la version pour verifier 
+
+node - v 
+
+//2. Install Visual Studio Code 
+
+https://code.visualstudio.com/download
+
+//3. Create a folder and access it using the command line 
+
+//create folder
+
+mkdir Form_bootstrap 
+
+//access id
+
+cd Form_bootstrap
+
+//4. Type “ code . ” 
+
+code . 
+
+//5. Create an HTML file include bootstrap. Create a bootstrap form (with at least 3 fields)
+
+I used : https://getbootstrap.com/docs/4.5/getting-started
+
